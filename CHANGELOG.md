@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+### Added
+
+- JAKIM (Malaysia) as a calculation method, matching the official e-Solat timetables to within a minute or two.
+
 ## [0.1.0] - 2026-10-29
 
 The first pre-release.
